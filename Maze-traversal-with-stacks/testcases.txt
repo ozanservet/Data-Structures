@@ -1,0 +1,129 @@
+Dear All,
+
+Assignment #1 grades released, you can check them from sucourse.
+
+-Before, sending objection mail please follow these steps:
+
+1- Download your submission from sucourse.
+
+2- Try the test cases (check the below) with your program, and check the results.
+
+3- if you find out that your grade is not correct, connect with me via mail: omidk@sabanciuniv.edu
+
+-You can modify 5 lines of your code,  in this case you have to send the new code and explanation of which lines you changed to me.
+
+-Late submission rules:
+
+10% of over all grade for a one day late submission.
+
+20% of over all grade for a two day late submission.
+
+30% of over all grade for a three day late submission.
+
+#######################################
+
+Test Case1:
+
+10 10
+0 4
+1 1 1 1 0 1 1 1 1 1
+1 0 0 1 0 1 0 0 0 1
+1 0 0 0 0 0 0 1 0 1
+1 0 1 1 1 1 0 1 0 1
+1 0 1 0 0 1 0 1 0 1
+1 0 1 1 1 1 0 0 0 1
+1 1 1 0 1 0 0 1 0 1
+0 0 1 0 1 0 1 1 0 0
+1 0 1 0 0 0 0 0 0 1
+1 0 1 1 1 1 1 1 1 1
+
+#######################################
+
+Test Case2:
+
+5 5
+4 1
+1 1 1 1 0
+1 0 0 1 0
+1 0 0 0 0
+1 0 1 1 1
+1 0 1 0 0
+
+#######################################
+
+Test Case3:
+
+7 5
+3 0
+1 0 0 0 0
+1 1 0 1 1
+1 0 0 1 1
+0 0 1 0 0
+1 0 0 0 1
+1 0 1 0 0
+1 1 1 1 0
+
+#######################################
+
+Test Case4:
+
+6 6
+1 0
+0 1 1 0 0 0
+0 0 0 0 1 1
+1 0 0 0 1 1
+1 0 1 1 1 0
+1 0 0 0 0 0
+1 1 1 0 1 1
+
+#######################################
+
+Test Case5:
+
+6 6
+1 0
+1 1 1 0 0 0
+0 0 0 0 1 1
+1 0 0 0 1 1
+1 0 1 1 1 0
+1 0 0 0 0 0
+1 1 1 0 1 1
+
+#######################################
+
+Test Case6:
+
+10 12
+0 5
+1 1 1 1 1 0 1 1 1 1 1 1
+1 0 0 0 0 0 0 0 0 0 1 1
+1 1 1 0 1 0 1 1 1 1 1 1
+1 1 1 0 0 0 1 1 1 1 1 1
+1 1 1 1 0 0 1 0 1 1 1 1
+0 0 0 0 0 1 1 0 1 1 1 1
+1 1 1 1 0 0 0 0 0 1 1 1
+1 1 1 1 1 1 1 0 0 0 0 0
+1 1 1 1 1 1 1 0 1 1 1 1
+1 1 1 1 1 1 1 0 1 1 1 1
+
+#######################################
+
+Test Case7:
+
+15 15
+0 2
+1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+1 1 0 1 1 0 0 0 0 0 0 0 1 1 1
+1 0 0 0 0 0 1 0 1 0 1 0 1 1 1
+1 1 1 1 1 0 1 0 1 0 1 0 1 1 1
+1 1 1 1 1 0 1 0 1 1 1 0 0 0 1
+1 1 1 1 1 0 1 0 1 1 1 1 0 1 1
+0 0 0 0 0 0 1 0 1 0 0 0 0 0 1
+1 1 1 1 1 1 1 0 1 0 1 1 0 1 1
+1 1 1 1 1 1 1 0 0 0 1 0 0 0 0
+1 1 0 0 0 1 1 0 1 1 1 1 1 0 0
+1 1 0 1 0 0 0 0 1 1 1 1 0 0 1
+1 1 0 1 1 0 1 0 0 0 0 0 0 1 1
+0 0 0 1 1 1 1 0 1 1 1 1 0 1 1
+1 1 1 1 1 1 1 0 1 1 1 1 0 1 1
+1 1 1 1 1 1 1 1 1 1 1 1 0 1 1
