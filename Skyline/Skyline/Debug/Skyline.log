@@ -1,0 +1,15 @@
+﻿  Source.cpp
+c:\users\ozkan\desktop\mygithub\datastructures\yuklendi\skyline\skyline\source.cpp(201): warning C4018: '<': signed/unsigned mismatch
+c:\users\ozkan\desktop\mygithub\datastructures\yuklendi\skyline\skyline\source.cpp(62): warning C4018: '<': signed/unsigned mismatch
+  c:\users\ozkan\desktop\mygithub\datastructures\yuklendi\skyline\skyline\source.cpp(49): note: while compiling class template member function 'void Mpqueue<int>::insert(const Comparable &,int)'
+          with
+          [
+              Comparable=int
+          ]
+  c:\users\ozkan\desktop\mygithub\datastructures\yuklendi\skyline\skyline\source.cpp(205): note: see reference to function template instantiation 'void Mpqueue<int>::insert(const Comparable &,int)' being compiled
+          with
+          [
+              Comparable=int
+          ]
+  c:\users\ozkan\desktop\mygithub\datastructures\yuklendi\skyline\skyline\source.cpp(158): note: see reference to class template instantiation 'Mpqueue<int>' being compiled
+  Skyline.vcxproj -> C:\Users\Ozkan\Desktop\MyGithub\DataStructures\yuklendi\Skyline\Debug\Skyline.exe
